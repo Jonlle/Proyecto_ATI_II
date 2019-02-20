@@ -1,12 +1,12 @@
 # API REST con Python Flask
 
-Conexión Personas Online es un portal web orientado a proporcionar servicios para los usuarios finales de productos Tebca/Servitebca.
+API REST usando Flask-Restful
 
 ### Dependencias
 
 - Python
-- flask
-- flask_restful 
+- Flask
+- Flask_Restful 
 
 ### Instalación de módulos flask y flask_restful
 
