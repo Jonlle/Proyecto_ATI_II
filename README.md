@@ -36,4 +36,4 @@ python run.py
 ![Screenshot](screenshots/PUT.png)
 
 ### DELETE
-![Screenshot](screenshots/DELETE.png)
+![Screenshot](screenshots/DELETE.png)   
