@@ -25,14 +25,15 @@ python run.py
 ## Ejemplos para las Peticiones HTTP
 
 ### GET
-![Screenshot](screenshots/Screenshot_1.png)
+![Screenshot](screenshots/GET-lista.png)
+
+![Screenshot](screenshots/GET.png)
 
 ### POST
-
+![Screenshot](screenshots/POST.png)
 
 ### PUT
-
+![Screenshot](screenshots/PUT.png)
 
 ### DELETE
-
-
+![Screenshot](screenshots/DELETE.png)
